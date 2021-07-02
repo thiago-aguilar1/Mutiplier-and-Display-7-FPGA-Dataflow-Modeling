@@ -130,7 +130,8 @@ endmodule
 
 ## Detalhe:
 
- * Neste código, os números 6 e 9 são representado por 6 segmentos ligados e 1 segmento desligado.   
+ * Neste código, os números 6 e 9 são representado por 6 segmentos ligados e 1 segmento desligado.
+ * Antes de chegar a esse projeto, eu fiz um [projeto teste](https://github.com/thiago-aguilar1/Testando-7-segmentos-FPGA-Data-Flow), no qual eu simulo a forma de onda de um projeto com uma entrada de apenas 2 bits, e a saída apresentada em dois displays de 7 segmentos, um display para mostrar o valor de entrada, e o outro para mostrar o valor do produto da entrada por 2.  
 
 
 ![Imagem da forma de onda](https://github.com/thiago-aguilar1/Mutiplier-and-Display-7-FPGA-Dataflow-Modeling/blob/main/image.png)

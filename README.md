@@ -133,7 +133,7 @@ endmodule
  * Neste código, os números 6 e 9 são representado por 6 segmentos ligados e 1 segmento desligado.   
 
 
-
+![Imagem da forma de onda](https://github.com/thiago-aguilar1/Mutiplier-and-Display-7-FPGA-Dataflow-Modeling/blob/main/image.png)
 
 
 
